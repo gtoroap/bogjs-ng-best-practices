@@ -1,3 +1,6 @@
+# bogjs-ng-best-practices
+Speak about best practices in angular (May 2016)
+
 # Steps to view the slides.
 
 ```sh
